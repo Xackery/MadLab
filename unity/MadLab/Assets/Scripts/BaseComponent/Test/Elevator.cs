@@ -13,8 +13,6 @@ public class Elevator : BaseComponent {
 	private Vector3 startPos;
 	/// The end position
 	private Vector3 endPos;
-	/// How far the elevator moves before flipping directions
-	private int distanceMax = 0;
 	#endregion
 	#region Engine
 	/// <summary>
